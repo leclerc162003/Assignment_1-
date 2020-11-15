@@ -45,3 +45,38 @@ body {
     
 
 }
+.menu a:hover{
+    background-color: red;
+    color: white;
+}
+.superm_pic{
+    text-align: center;
+}
+.superm_pic > img {
+    
+    border: 30px solid #F8D4F6;
+    
+}
+.TM {
+    border: 20px solid black;
+    display: flex;
+  }
+  
+ .tours-merch {
+    
+    font-family: 'Stalinist One', cursive;
+    text-align: center;
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+.tours-merch a:hover{
+    background-color: red;
+    color: white;
+}
+
+.latest-video{
+    border: 20px solid #FA0A0A;
+    font-family: 'Stalinist One', cursive;
+    text-align: center;
+}
