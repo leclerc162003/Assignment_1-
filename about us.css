@@ -1,7 +1,7 @@
 body {
     background-color: white;
 }
-.title{
+.title {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row-reverse;
@@ -49,43 +49,19 @@ body {
     background-color: red;
     color: white;
 }
-.superm_pic{
-    text-align: center;
+
+
+
+.AU > h1 {
     
-}
-.superm_pic > img {
-    text-align: center;
-    width:1000px; 
-    height: 562px;
-    border: 30px solid #F8D4F6;
+    font-family: 'Stalinist One', cursive;
     
-}
-.TM {
+    color:black;
+    font-size: 45px;
     border: 20px solid black;
-    display: flex;
-  }
-  
- .tours-merch {
     
-    font-family: 'Stalinist One', cursive;
     text-align: center;
-    flex: 33.33%;
-    padding: 5px;
-  }
-
-.tours-merch a:hover{
-    background-color: red;
-    color: white;
+    line-height: 75px;
+    
+    
 }
-
-.latest-video{
-    border: 20px solid #FA0A0A;
-    font-family: 'Stalinist One', cursive;
-    text-align: center;
-}
-@media screen and (max-width: 800px) {
-     .latest-video {
-      width: 50%; 
-    }
-}
-
