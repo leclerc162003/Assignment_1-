@@ -49,30 +49,7 @@ body {
     background-color: red;
     color: white;
 }
-/* .flex {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row-reverse;
-    justify-content: center;
-    align-items: stretch;
-    width: 100%;
-    height: 100%;
 
-}
-.superm_pic{
-    text-align: center;
-    display: flex;
-    
-    
-}
-.superm_pic > img {
-    text-align: center;
-    width:1000px; 
-    height: 562px;
-    border: 30px solid #F8D4F6;
-    object-fit: contain;
-    
-} */
 .flex {
     display: flex;
     flex-direction: row;
@@ -112,13 +89,18 @@ body {
     text-align: center;
     flex: 45%;
     padding: 5px;
+    
  }
  
+
+
+
 
 
 .tours-merch a:hover{
     background-color: red;
     color: white;
+    
 
 }
 .flexvideo{
@@ -146,7 +128,10 @@ body {
         flex-direction: column;
         
         
+        
     }
+    
+    
 }
     
   
