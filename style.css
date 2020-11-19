@@ -126,6 +126,7 @@ body {
 @media screen and (max-width:1500px){
     .TM{
         flex-direction: column;
+        font-size: 10px;
         
         
         
