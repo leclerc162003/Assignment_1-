@@ -20,6 +20,9 @@ Responsivee page - allows customers to use the page across all devices.
 
 Tour & Tickets - allows customers to check out their latest tours and buy tickets from the page.
 
+Left to implement
+merchandise page
+
 Testing
 
 website size
