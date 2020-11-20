@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+}
+.title{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: white;
+}
+
+
+
+.title > h1 {
+    
+    font-family: 'Stalinist One', cursive;
+    background-color: red;
+    color: white;
+    font-size: 45px;
+    height: 100px;
+    width: 1550px;
+    margin: 0px;
+    text-align: center;
+    line-height: 75px;
+    
+}
+
+
+.menu {
+    background-color: black;
+    overflow: hidden;
+    
+    text-align: justify;
+}
+.menu a{
+    font-family: 'Stalinist One', cursive;
+    float: left;
+    text-align: end;
+    padding: 14px 30px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-size: 15px;
+    
+    
+
+}
+.menu a:hover{
+    background-color: red;
+    color: white;
+}
+
+.M> h1 {
+    
+    font-family: 'Stalinist One', cursive;
+    
+    color:black;
+    font-size: 45px;
+    border: 20px solid black;
+    
+    text-align: center;
+    line-height: 75px;
+    
+    
+}

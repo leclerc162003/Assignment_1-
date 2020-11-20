@@ -93,7 +93,7 @@ body {
     text-align: center;
     color:black;
     border: 8px solid red;
-    width: 50%;
+    width: 65%;
     padding: 10px;
     
     
@@ -103,7 +103,8 @@ body {
 }
 
 .us > p {
-    font-family: 'Stalinist One', cursive;
+    
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 20px;
     text-align: center;
    
