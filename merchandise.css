@@ -63,3 +63,48 @@ body {
     
     
 }
+
+
+.merch {
+    
+    font-family: 'Stalinist One', cursive;
+    text-align: center;
+    flex: 45%;
+    padding: 5px;
+    border: 20px solid black;
+    display: flex;
+    flex-direction: row;
+    
+ }
+ 
+
+
+
+
+
+.merch a:hover{
+    background-color: red;
+    color: white;
+    
+
+}
+
+@media screen and (max-width:1500px){
+    
+    .M> h1 {
+    
+        
+        font-size: 20px;
+        
+        
+    }    
+    
+    
+    .merch{
+        flex-direction: column;
+        flex: 70%;
+        
+        
+        
+    }
+}
