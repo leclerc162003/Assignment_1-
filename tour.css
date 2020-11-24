@@ -1,6 +1,8 @@
+/* setting background colour */
 body {
     background-color: white;
 }
+/*flex box for title */
 .title{
     display: flex;
     flex-wrap: nowrap;
@@ -10,7 +12,7 @@ body {
 }
 
 
-
+/* title font and colour */
 .title > h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -25,13 +27,15 @@ body {
     
 }
 
-
+/* menu colour */
 .menu {
     background-color: black;
     overflow: hidden;
     
     text-align: justify;
 }
+
+/* menu color, font and decorations */
 .menu a{
     font-family: 'Stalinist One', cursive;
     float: left;
@@ -45,11 +49,13 @@ body {
     
 
 }
+/* hover colour for menu */
 .menu a:hover{
     background-color: red;
     color: white;
 }
 
+/* text colour, font and font size for h1 */
 .T > h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -63,6 +69,7 @@ body {
     
     
 }
+/* text colour, font and font size for h2 */
 .I > h2{
     font-family: 'Stalinist One', cursive;
     
@@ -71,7 +78,7 @@ body {
     text-align: center;
 
 }
-
+/* text colour, font and font size for tour dates */
 .tour-dates{
     background-color: #403D3F;
     font-family: 'Stalinist One', cursive;
@@ -81,15 +88,18 @@ body {
     text-align: center;
     overflow: hidden;
 }
+/* text colour */
 .tour-dates a{
     color: white;
     text-decoration: none;
 }
 
+/* text colour for darte */
 .date{
     color: #D20202;
 }
 
+/* text colour for hover*/
 .tour-dates a:hover{
     background-color: grey;
     color: white;

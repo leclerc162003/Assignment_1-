@@ -1,6 +1,9 @@
+/* setting background colour */
 body {
     background-color: white;
 }
+
+/* flex for title*/
 .title{
     display: flex;
     flex-wrap: nowrap;
@@ -10,7 +13,7 @@ body {
 }
 
 
-
+/* text colour, font for title*/
 .title > h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -25,13 +28,15 @@ body {
     
 }
 
-
+/* menu colour */
 .menu {
     background-color: black;
     overflow: hidden;
     
     text-align: justify;
 }
+
+/* text colour, font size, font for menu*/
 .menu a{
     font-family: 'Stalinist One', cursive;
     float: left;
@@ -45,11 +50,15 @@ body {
     
 
 }
+
+/* text colour for hover*/
 .menu a:hover{
     background-color: red;
     color: white;
 }
 
+
+/* text colour, font, font size, text alignment and line height for Merchandise text*/
 .M> h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -64,7 +73,7 @@ body {
     
 }
 
-
+/* text colour, font, font size, padding, flexbox and flex direction for Merchandise box*/
 .merch {
     
     font-family: 'Stalinist One', cursive;
@@ -81,7 +90,7 @@ body {
 
 
 
-
+/* text colour for hover */
 .merch a:hover{
     background-color: red;
     color: white;
@@ -89,6 +98,7 @@ body {
 
 }
 
+/* adjusting to different screen sizes*/
 @media screen and (max-width:1500px){
     
     .M> h1 {

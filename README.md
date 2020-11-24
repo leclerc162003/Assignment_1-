@@ -26,4 +26,22 @@ merchandise page
 Testing
 
 website size
-if the browser is minimise or device screen is smal, the website will adapt accordingly as coded.
+if the browser is minimise or device screen is small, the website will adapt accordingly as coded.
+
+CREDITS
+TOURS ---- tours locations are linked to STUBHUB link is https://www.stubhub.com/superm-tickets/performer/100750448/
+
+MERCHANDISES ---- merchandises products are linked to official SuperM store at https://shop.supermofficial.com
+
+
+MEDIA 
+
+video from index.html is from https://www.youtube.com/embed/JPXyS1SU3Vw
+
+pictures on index.html (homepage) is from https://variety.com/wp-content/uploads/2020/08/200810_superm_100_group_3_clean-1.jpg
+
+and tours and merchandise pictures is obtained from https://shop.supermofficial.com
+
+pictures on about us is from https://media.vogue.co.uk/photos/5e6bc52da9ca7300084960f8/master/pass/001-SuperM-VogueGlobal-12March20-Courtesy-Capitol-Records.jpg
+
+pictures on merchandises is from https://shop.supermofficial.com

@@ -1,6 +1,9 @@
+/* setting background colour */
 body {
     background-color: white;
 }
+
+/* flex for title*/
 .title{
     display: flex;
     flex-wrap: nowrap;
@@ -9,7 +12,7 @@ body {
     background-color: white;
 }
 
-
+/* text colour, font for title*/
 
 .title > h1 {
     
@@ -25,13 +28,15 @@ body {
     
 }
 
-
+/* menu colour */
 .menu {
     background-color: black;
     overflow: hidden;
     
     text-align: justify;
 }
+
+/* text colour, font size, font for menu*/
 .menu a{
     font-family: 'Stalinist One', cursive;
     float: left;
@@ -45,11 +50,13 @@ body {
     
 
 }
+/* text colour for hover*/
 .menu a:hover{
     background-color: red;
     color: white;
 }
 
+/* flexbox for group pictures*/
 .flex {
     display: flex;
     flex-direction: row;
@@ -62,19 +69,20 @@ body {
     border-radius: 4px;
     background-color: #FAE8F8;
   }
-  
+  /* picture flexbox and border*/
   .superm_pic {
     
     border-radius: 4px;
     display: flex;
   }
   
+  /* picture width , fit and border */
   .superm_pic > img {
     width: 100%;
     object-fit: contain;
     border-radius: 4px;
   }
-
+/* border, flexbox and flex direction for box*/
 .TM {
     border: 20px solid black;
     display: flex;
@@ -83,6 +91,7 @@ body {
     
   }
   
+  /* text colour , font, flex and padding for tours and merchandise*/
  .tours-merch {
     
     font-family: 'Stalinist One', cursive;
@@ -96,20 +105,21 @@ body {
 
 
 
-
+/* text colour for hover*/
 .tours-merch a:hover{
     background-color: red;
     color: white;
     
 
 }
+/* flex for youtube video*/
 .flexvideo{
     
     display: flex;
 
 }
 
-
+/* text colour, font, border and colours for youtube video*/
 .latest-video{
     border: 20px solid #FA0A0A;
     font-family: 'Stalinist One', cursive;
@@ -122,7 +132,7 @@ body {
  }
     
 
-
+/* adjusting to different screen sizes*/
 @media screen and (max-width:1500px){
     .TM{
         flex-direction: column;

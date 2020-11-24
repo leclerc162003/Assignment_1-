@@ -1,6 +1,9 @@
+/* setting background colour */
 body {
     background-color: white;
 }
+
+/* flex for title*/
 .title{
     display: flex;
     flex-wrap: nowrap;
@@ -10,7 +13,7 @@ body {
 }
 
 
-
+/* text colour, font for title*/
 .title > h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -25,13 +28,15 @@ body {
     
 }
 
-
+/* menu colour */
 .menu {
     background-color: black;
     overflow: hidden;
     
     text-align: justify;
 }
+
+/* text colour, font size, font for menu*/
 .menu a{
     font-family: 'Stalinist One', cursive;
     float: left;
@@ -45,10 +50,14 @@ body {
     
 
 }
+
+/* text colour for hover*/
 .menu a:hover{
     background-color: red;
     color: white;
 }
+
+/* text colour, font, font size, text alignment and line height for Merchandise text*/
 .C > h1 {
     
     font-family: 'Stalinist One', cursive;
@@ -62,6 +71,8 @@ body {
     
     
 }
+
+/*information text alignment, colour, border, padding and width*/
 .info {
     margin: auto;
     text-align: center;
@@ -75,16 +86,19 @@ body {
     
 
 }
-
+/* h2 font, line height and text alignment*/
 .info > h2 {
     font-family: 'Stalinist One', cursive;
     line-height: 20px;
     text-align: center;
    
 }
+/*label colour */
 .label{
     color:black;
 }
+
+/* customer inquiry texts*/
 .i2{
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 15px;
@@ -92,7 +106,7 @@ body {
     color:black;
 }
 
-
+/*inquiry border font and font sizes, colour, margin width text alightment*/
 .inquire{
     margin: auto;
     text-align: center;
@@ -105,6 +119,7 @@ body {
     color:black;
 }
 
+/* adjusting to different screen sizes*/
 @media screen and (max-width:1500px){
     .info > h2{
         
