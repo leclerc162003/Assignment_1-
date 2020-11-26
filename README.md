@@ -16,12 +16,11 @@ Features
 Inquiry form - allows customers to inquire about bussiness, advertisment or music by filling up the inquiry form.
 
 
-Responsivee page - allows customers to use the page across all devices.
+Responsive page - allows customers to use the page across all devices.
 
 Tour & Tickets - allows customers to check out their latest tours and buy tickets from the page.
 
-Left to implement
-merchandise page
+merchandise page - allows customer to purchase merchandise from the band on the page.
 
 Testing
 
